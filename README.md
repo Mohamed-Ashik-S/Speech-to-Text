@@ -1,4 +1,4 @@
-# Speech-to-text using Whisper ASR
+# Speech-to-Text using Whisper ASR
 
 This project showcases the capabilities of the Whisper automatic speech recognition (ASR) system by OpenAI. Whisper is a state-of-the-art ASR model trained on a diverse range of speech data. It is capable of transcribing audio files and performing language detection and translation.
 
