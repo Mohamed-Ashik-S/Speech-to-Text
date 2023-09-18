@@ -1,4 +1,3 @@
-```markdown
 # Speech-to-text using Whisper ASR
 
 This project showcases the capabilities of the Whisper automatic speech recognition (ASR) system by OpenAI. Whisper is a state-of-the-art ASR model trained on a diverse range of speech data. It is capable of transcribing audio files and performing language detection and translation.
@@ -19,8 +18,7 @@ Before running this project, make sure you have the following libraries and depe
 Install the required libraries using the provided instructions.
 
 ### Installing Required Libraries
-
-```bash
+``` bash
 # Install required libraries
 !pip install torch
 !pip install --upgrade torch
@@ -28,7 +26,6 @@ Install the required libraries using the provided instructions.
 !pip install git+https://github.com/openai/whisper.git
 !pip install git+https://github.com/librosa/librosa
 ```
-
 Please restart the kernel after running the above installs.
 
 ## Usage
@@ -75,4 +72,3 @@ This project also supports transcribing audio from YouTube videos. Simply provid
 - [PyTube](https://python-pytube.readthedocs.io/en/latest/)
 - [Librosa](https://librosa.org/)
 - [IBM Watson](https://cloud.ibm.com/apidocs/speech-to-text)
-```
