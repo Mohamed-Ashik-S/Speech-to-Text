@@ -1,5 +1,3 @@
-Absolutely! Here's a README file for your project:
-
 ```markdown
 # Speech-to-text using Whisper ASR
 
@@ -78,5 +76,3 @@ This project also supports transcribing audio from YouTube videos. Simply provid
 - [Librosa](https://librosa.org/)
 - [IBM Watson](https://cloud.ibm.com/apidocs/speech-to-text)
 ```
-
-Remember to include the `LICENSE` file in your project directory if it's not already there. This README file provides an overview of
